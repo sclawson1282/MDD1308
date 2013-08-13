@@ -2,7 +2,7 @@ MDD1308
 =======
 Course work for MDD at Full Sail Univeristy
 
-Welcome to the PicFlick GitHub Web Repo!
+Welcome to the gitFlick GitHub Web Repo!
 
 This Web App features Flickr's API, giving users a very simple way to search and view 
 images across Flickr users.
