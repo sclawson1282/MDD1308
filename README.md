@@ -15,4 +15,5 @@ August 8th - Researched the AngularJS, Backbone and Bootstrap frameworks<br>
 August 10th - Finished setting up basic file structure<br>
 August 11th - Added basic html and framework code files<br>
 August 12th - Database table set up and user login information fields created. (this is inticipating
-              we will have a user login screen.)
+              we will have a user login screen.)<br>
+August 13th - Came up with a name for the application: "gitFlick" Basic API working with app, more style to come.<br>
