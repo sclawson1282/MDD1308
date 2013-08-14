@@ -7,6 +7,8 @@ Welcome to the gitFlick GitHub Web Repo!
 This Web App features Flickr's API, giving users a very simple way to search and view 
 images across Flickr users.
 
+Check out what I have so far <link>http://db.tt/59SsLJCB</link>
+
 Log
 =======
 
