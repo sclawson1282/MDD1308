@@ -19,3 +19,4 @@ August 11th - Added basic html and framework code files<br>
 August 12th - Database table set up and user login information fields created. (this is inticipating
               we will have a user login screen.)<br>
 August 13th - Came up with a name for the application: "gitFlick" Basic API working with app, more style to come.<br>
+August 14th - Added Media Queries for responsive design (still need to update code - some have only placeholders.)
