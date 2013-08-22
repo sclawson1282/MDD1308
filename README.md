@@ -23,4 +23,4 @@ August 14th - Added Media Queries for responsive design (still need to update co
 August 15th - Added SQL dumps to github<br>
 August 18th - Updated CSS/ Adding shadow to images<br>
 August 19th - Updated CSS/ images can be clicked for larger view<br>
-
+August 21st - Continued to update CSS/ linked user login & CRUD files with application files<br>
