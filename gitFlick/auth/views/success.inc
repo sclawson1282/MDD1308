@@ -5,7 +5,7 @@
 	<title>gitFlick</title>
 	
 	<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="style.css" /> 
+	<link rel="stylesheet" href="style2.css" /> 
 	<style type="text/css">
   		body {
   		  padding-top:60px;
@@ -14,23 +14,27 @@
 </head>
 
 <body>
+
 <!-- Navbar -->
   <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
       <div class="container">
         <a class="brand" href="#/page/home">Welcome to gitFlick</a>
+        
      	 <header>
-          	<form><input type="search" placeholder="Search images" /></form>
+          	<form><input type="search" placeholder="Search images" /></form><h6><a href="views/logout.php">Log Out</a></h6>
          </header>
       </div>
     </div>
   </div>
+  
+  
 <!--	<header>
 		<form><input type="search" placeholder="Search images" /></form>
 	</header> -->
 	<ul class="results"></ul>
 	<footer>
-		<ul></ul>
+		
 	</footer>
 
 	<!-- _underscore templates -->
@@ -48,6 +52,12 @@
 	<script src="js/backbone.js"></script>
 	<script src="js/backbone-localstorage.js"></script>
 	<script src="js/script.js"></script>
+	
 
 </body>
+
 </html>
+
+
+<p></p> 
+
