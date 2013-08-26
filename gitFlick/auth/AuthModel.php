@@ -12,7 +12,7 @@ class AuthModel {
 	
 	public function getUserByNamePass($name, $pass) {
 			$stmt = $this->db->prepare("
-				SELECT userID AS id, username AS name, user_fullname AS fullname
+				SELECT userID AS id, username AS name
 				FROM users
 				WHERE username = :name
 				AND password = MD5(CONCAT(user_salt, :pass))

@@ -29,9 +29,10 @@
   </div>
   
   
-<!--	<header>
-		<form><input type="search" placeholder="Search images" /></form>
-	</header> -->
+	<header>
+		<h4>Welcome to gitFlick!</h4><br>
+		<h5>To search images, enter in a description in the search field above!</h5>
+	</header> 
 	<ul class="results"></ul>
 	<footer>
 		
