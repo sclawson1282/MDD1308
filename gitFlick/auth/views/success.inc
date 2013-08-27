@@ -24,7 +24,7 @@
         
      	 <header>
           	<form><input type="search" placeholder="Search images" /></form><h6><a href="views/logout.php">Log Out</a></h6>
-          		<h7 class="privacy"><span></span>&copy;&nbsp;2013&nbsp;| <a href="views/privacy.inc">Privacy Policy</a>&nbsp;
+          		<h7 class="privacy"><span></span>&copy;&nbsp;2013&nbsp;| <a href="views/privacy.html">Privacy Policy</a>&nbsp;
       				</h7>
          </header>
       </div>
