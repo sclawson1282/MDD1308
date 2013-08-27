@@ -24,4 +24,6 @@ August 15th - Added SQL dumps to github<br>
 August 18th - Updated CSS/ Adding shadow to images<br>
 August 19th - Updated CSS/ images can be clicked for larger view<br>
 August 21st - Continued to update CSS/ linked user login & CRUD files with application files<br>
-August 25th - Diagnosing DB issues - Able to create new users in table, but can not sign in with new account.
+August 25th - Diagnosing DB issues - Able to create new users in table, but can not sign in with new account.<br>
+August 26th - Added text/style to landing page.<br>
+August 27th - Added privacy policy, terms and conditions and contact information to page.<br>
