@@ -35,9 +35,16 @@ body:before{
 		z-index:10;
 	}
 	
+	#brand {
+		top:13%;
+	}
+	
 	h6{
-		float:right;
+		float:left;
 		margin: 1em;
+	}
+	h7{
+		font-size:.5em;
 	} 
 
 
@@ -45,12 +52,15 @@ body:before{
 			
 		}
 			header input{
-				position:absolute;
+				
 				min-height: 0px;
 				font-size:1.2em;
 				top:13%;
 				max-width:100%;
+				/*position:absolute;*/
+				float:left;
 			}
+			
 
 	body > ul {
 		z-index:1;

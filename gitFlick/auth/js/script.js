@@ -1,7 +1,4 @@
-/**
-* @author Andrew Dodson
-* @since Nov 2011
-*/
+
 (function(){
 
 

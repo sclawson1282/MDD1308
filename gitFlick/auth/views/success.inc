@@ -4,7 +4,8 @@
 	<meta charset="UTF-8">
 	<title>gitFlick</title>
 	
-	<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/css/bootstrap.min.css" rel="stylesheet">
+<!--<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/css/bootstrap.min.css" rel="stylesheet">-->
+	<link rel="stylesheet" href="bootstrap.min.css" />
 	<link rel="stylesheet" href="style2.css" /> 
 	<style type="text/css">
   		body {
@@ -23,6 +24,8 @@
         
      	 <header>
           	<form><input type="search" placeholder="Search images" /></form><h6><a href="views/logout.php">Log Out</a></h6>
+          		<h7 class="privacy"><span></span>&copy;&nbsp;2013&nbsp;| <a href="views/privacy.inc">Privacy Policy</a>&nbsp;
+      				</h7>
          </header>
       </div>
     </div>

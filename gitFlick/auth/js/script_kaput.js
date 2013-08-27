@@ -1,7 +1,4 @@
-/**
-* @author Andrew Dodson
-* @since Nov 2011
-*/
+
 
 $(function(){
 
@@ -308,9 +305,3 @@ console.log(Array.prototype.slice.call(arguments)); // IE
 });
 
 
-
-/**
-1. Can't bind events to the Window
-2. Views cannot be reused, whilst they can be bound to several different collection and models, view events are trigger on all instances should anyone of those models change.... and not just the instance which i expected.
-
-*/
