@@ -27,3 +27,4 @@ August 21st - Continued to update CSS/ linked user login & CRUD files with appli
 August 25th - Diagnosing DB issues - Able to create new users in table, but can not sign in with new account.<br>
 August 26th - Added text/style to landing page.<br>
 August 27th - Added privacy policy, terms and conditions and contact information to page.<br>
+August 27th - Added style to privacy page<br>
