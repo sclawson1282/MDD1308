@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.5.29)
 # Database: bdf1307
-# Generation Time: 2013-08-27 02:10:02 +0000
+# Generation Time: 2013-08-28 04:09:09 +0000
 # ************************************************************
 
 
@@ -35,16 +35,6 @@ CREATE TABLE `users` (
   UNIQUE KEY `UX_name_password` (`username`,`password`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-LOCK TABLES `users` WRITE;
-/*!40000 ALTER TABLE `users` DISABLE KEYS */;
-
-INSERT INTO `users` (`userID`, `username`, `password`, `user_salt`)
-VALUES
-	(1,'sclawson','093af6c07d73ec61fcb32d30512cdbc7','ldhflkah'),
-	(2,'wlawson','5dcda1c86baee38487aac9498754779c','9ydqidkq');
-
-/*!40000 ALTER TABLE `users` ENABLE KEYS */;
-UNLOCK TABLES;
 
 
 
