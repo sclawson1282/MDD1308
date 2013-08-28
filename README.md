@@ -31,3 +31,4 @@ August 26th - Added text/style to landing page.<br>
 August 27th - Added privacy policy, terms and conditions and contact information to page.<br>
 August 27th - Added style to privacy page<br>
 August 28th - Corrected Database issues, now about to create and use new usernames, renamed files, cleaned code.<br>
+August 28th - Created walk through video, added video to landing page, styled landing page.<br>
