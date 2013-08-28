@@ -28,3 +28,4 @@ August 25th - Diagnosing DB issues - Able to create new users in table, but can 
 August 26th - Added text/style to landing page.<br>
 August 27th - Added privacy policy, terms and conditions and contact information to page.<br>
 August 27th - Added style to privacy page<br>
+August 28th - Corrected Database issues, now about to create and use new usernames, renamed files, cleaned code.<br>
