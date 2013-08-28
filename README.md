@@ -9,6 +9,8 @@ images across Flickr users.
 
 Check out what I have so far <link>http://youtu.be/d116r7S5gEk</link>
 
+The landing page is index.php. It is inside the gitFlick folder, then inside the gitFlickApp folder.
+
 Log
 =======
 
