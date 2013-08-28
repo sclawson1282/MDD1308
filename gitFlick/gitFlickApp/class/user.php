@@ -50,9 +50,9 @@
 				
 				$stmt = $con->prepare( $sql );
 				$stmt->bindValue( "username", $this->username, PDO::PARAM_STR );
-				$stmt->bindValue( "password", hash("sha256", $this->password . $this->salt), PDO::PARAM_STR );
+				$stmt->bindValue( "password", $this->password, PDO::PARAM_STR );
 				$stmt->execute();
-				return "Registration Successful <br/> <a href='auth.php'>Login Now</a>";
+				return "Registration Successful <br/> <a href='index.php'>Login Now</a>";
 			}catch( PDOException $e ) {
 				return $e->getMessage();
 			}

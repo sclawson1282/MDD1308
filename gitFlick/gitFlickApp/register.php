@@ -38,7 +38,7 @@
                     	</li>
                     	<li class="buttons">
                         	<input type="submit" name="register" value="Register" />
-                            <input type="button" name="cancel" value="Cancel" onclick="location.href='auth.php'" />
+                            <input type="button" name="cancel" value="Cancel" onclick="location.href='index.php'" />
                     	</li>
                     
                 	</ul>

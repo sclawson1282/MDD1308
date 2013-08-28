@@ -8,7 +8,7 @@ session_regenerate_id(true);
 
 session_destroy();
 
-header('Location: ../auth.php');
+header('Location: ../index.php');
 exit;
 
 ?> 
