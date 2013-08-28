@@ -13,6 +13,20 @@
         </header>
         
         <div id="main-wrapper">
+        	<div id="video-tut">
+        		<h1>Watch this video on how to use gitFlick!</h1>
+        		<video width="320" height="240" controls >
+  					<source src="media/example.oggtheora.ogv" type="video/ogg">
+ 					<source src="media/example.mp4" type="video/mp4">
+  					<source src="media/example.webmsd.webm" type="video/webm">
+  					<object data="movie.mp4" width="320" height="240">
+    				<embed width="320" height="240" src="movie.swf">
+  					</object>
+				</video>
+
+       <!-- 	<iframe width="320" height="233" src="//www.youtube.com/embed/IQ5R4YK0FTs?autoplay=1" frameborder="0" allowfullscreen></iframe> -->
+        	</div>
+        	
         	<div id="login-wrapper">
             	<form method="post" action="?">
                 	<ul>
@@ -32,7 +46,7 @@
                     
                 	</ul>
             	</form>
-                
+            </div>    
             </div>
         </div>
     
